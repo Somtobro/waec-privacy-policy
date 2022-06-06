@@ -4,7 +4,7 @@ About WAEC PAST QUESTIONS AND ANSWERS OFFLINE: WAEC PAST QUESTIONS AND ANSWERS O
 
 WAEC PAST QUESTIONS AND ANSWERS OFFLINE cares very much about your privacy. If you have any questions concerning this privacy policy, please email us at 2surecbt@gmail.com
 
-Information Collection and Use by WAEC PAST QUESTIONS AND ANSWERS OFFLINE: WAEC PAST QUESTIONS AND ANSWERS OFFLINE collects only sumitted data such as name, email and Android Id only. Android Id is collceted to generate a unique identification for every user and to authenticate its users.
+Information Collection and Use by WAEC PAST QUESTIONS AND ANSWERS OFFLINE: WAEC PAST QUESTIONS AND ANSWERS OFFLINE collects only sumitted data such as name, email and 
 
 WAEC PAST QUESTIONS AND ANSWERS OFFLINE also logs non-personally-identifiable information such as often use of the application, this is to create the best user experience.
 
